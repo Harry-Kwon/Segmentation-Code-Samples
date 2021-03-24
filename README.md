@@ -14,3 +14,11 @@ A sample of code to detect and segment "ravines" in 3d images using a modified v
 from generate_ridge_data import generate_ridge_data
 generate_ridge_data(FILENAME)
 ```
+
+# References
+- [https://scikit-image.org/docs/dev/api/skimage.feature.html?highlight=hessian_matrix#skimage.feature.hessian_matrix]
+- [https://dsp.stackexchange.com/questions/1714/best-way-of-segmenting-veins-in-leaves]
+- [https://en.wikipedia.org/wiki/Ridge_detection]
+- [https://en.wikipedia.org/wiki/Hessian_matrix]
+- [https://nipy.org/nibabel/images_and_memory.html]
+- [https://www.researchgate.net/publication/312830670_Automatic_Wrinkle_Detection_Using_Hybrid_Hessian_Filter] 
